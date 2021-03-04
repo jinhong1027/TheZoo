@@ -1,0 +1,47 @@
+body{
+  background: #FFCC00;
+}
+nav{
+  background: purple;
+}
+nav a{
+  color: white;
+}
+body{
+  background:green;
+}
+body{
+  background: skyblue;
+}
+h1{
+  color:purple;
+}
+h1{
+  background-color: yellow;
+}
+h1{
+  text-align: right;
+}
+.urgent{
+  color: red;
+  font-style: italic;
+}
+.blue{
+  color: blue;
+}
+.responsive{
+  max-width: 100%;
+}
+.sidebyside img {
+    width: 48%;
+  }
+}
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: red;
+  }
+}
+
+ol li {
+  color: pink;
+}
